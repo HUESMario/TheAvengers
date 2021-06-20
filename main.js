@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const Client = new Discord.Client();
-const token = "ODEzNDk4MjQwNDc3NTYwODM0.YDQLRg.HWazpSiHPteddOx1VRPiHFSFDNc"
+const token = "NÖ!"
 const fs = require("fs")
 const warnFile = require("./warns.json");
 const serverstats = require("./servers.json");
